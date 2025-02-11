@@ -7,6 +7,5 @@
 - [Link Text](comp1238.md)
 
 
-...
-attempt number 1
+
 https://github.com/goosey-creator/repo_name
