@@ -8,4 +8,4 @@
 
 
 
-https://github.com/goosey-creator/repo_name
+https://github.com/goosey-creator/gbc
